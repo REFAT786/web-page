@@ -1,0 +1,94 @@
+body{
+    background-color: #FAFAFA;
+}
+.full_body{
+
+    
+}
+.formClass{
+    margin: auto;
+    
+    height: 100%;
+    width: 400px;
+    background-color:#FFFFFF;
+    padding: 10px;
+    box-shadow: inset 2px 5px 30px 2px hsl(296, 12%, 23%);
+    
+    
+
+}
+.formClass h1{
+    text-align: center;
+    margin: 0;
+    margin-top: 15px;
+}
+.formClass h5{
+    text-align: center;
+    margin: 0;
+}
+
+.formClass label{
+    text-align: left;
+    padding-left: 50px;
+}
+.labelClass{
+    text-align: left;
+}
+.fnameClass{
+    margin-left: 49px;
+    padding: 10px;
+    
+}
+.lnameClass{
+    margin-left: 57px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.genderClass{
+    margin-left: 73px;
+    margin-top: 10px;
+    
+
+}
+.formClass select{
+    margin-left: 46px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.emailClass{
+    margin-left: 79px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.passClass{
+    margin-left: 57px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.CpassClass{
+    margin-left: 0px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.phnClass{
+    margin-left: 26px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.submitClass{
+    margin-left: 175px;
+    padding: 11px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.linkClass{
+    padding-top: 10px;
+    text-align: center;
+}
+.linkClass a{
+    text-decoration: none;
+    color: rgb(110, 17, 17);
+}

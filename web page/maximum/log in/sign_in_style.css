@@ -1,0 +1,66 @@
+body{
+    background-color: hsl(285, 100%, 50%);
+
+}
+.full_body{
+    display: flex;
+    
+}
+.left_body{
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    border-radius: 30%;
+    box-shadow: 5px 10px 15px 15px hsl(299, 80%, 53%);
+}
+.right_body{
+
+    
+    height: 600px;
+    width: 600px;
+    
+}
+
+.formClass{
+    
+    background-color: hsl(283, 100%, 57%);
+    border: solid 0.01px hsl(0, 25%, 65%);
+    margin: auto;
+    text-align: center;
+    height: 500px;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 45px;
+    box-shadow: inset 2px 5px 30px 2px whitesmoke;
+    
+    
+}
+.formClass:hover{
+    border: solid 0.01px hsl(350, 25%, 65%);
+    
+}
+
+.emailClass{
+    height: 35px;
+    width: 300px;
+   
+
+}
+.passClass{
+    height: 35px;
+    width: 300px;
+    margin-top: 5px;
+}
+.submitClass{
+    height: 35px;
+    width: 300px;
+    margin-top: 10px;
+    box-shadow: inset 1px 14px 20px 1px hsl(299, 80%, 53%);
+}
+.linkClass{
+    padding-top: 10px;
+}
+.linkClass a{
+    text-decoration: none;
+    color: hsl(60, 100%, 50%);
+}

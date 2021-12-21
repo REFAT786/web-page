@@ -1,0 +1,173 @@
+.nevber{
+    width: 100%;
+    height: 50px;
+   
+}
+.nevDiv1{
+    width: 20%;
+    height: 50px;
+    float: left;
+    
+}
+.icon{
+    float: left;
+    height: 50px;
+    cursor: pointer;
+
+}
+.serchber{
+    float: left;
+    height: 50px;
+
+}
+.serchber input{
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 15px;
+    font-size: 15px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+    
+}
+.serchber input:hover{
+    transition: 0.3s;
+    border-bottom: solid 3px teal;
+}
+.nevDiv2{
+    width: 60%;
+    height: 50px;
+    float: left;
+    background-color:  hsl(285, 100%, 50%);
+    text-align: center;
+    
+}
+
+.nevDiv2 ul{
+    
+
+}
+.nevDiv2 ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+.nevDiv2 ul li a{
+    text-decoration: none;
+    padding: 83px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    color: honeydew;
+    font-size: 21px;
+}
+.nevDiv2 ul li a:hover{
+    
+    background-color: hsl(285, 96%, 69%);
+
+}
+
+.nevDiv3{
+    width: 20%;
+    height: 50px;
+    float: left;
+    display: inline-block;
+}
+
+.msg{
+    float: left;
+    height: 48px;
+    text-align: center;
+    background-color: darkturquoise;
+    border-radius: 48%;
+    margin-left: 20px;
+}
+.msg :hover{
+    
+    border-radius: 50%;
+    height: 34px;
+    width: 50px;
+    background-color: teal;
+    transition: 1s;
+    color:  honeydew;
+    cursor: pointer;
+}
+.msg h3{
+    
+    height: 48px;
+    width: 48px;
+    margin: 0;
+    padding-top: 13px;
+
+}
+.notification{
+    float: left;
+    height: 48px;
+    text-align: center;
+    background-color: darkturquoise;
+    border-radius: 48%;
+    margin-left: 40px;
+
+}
+.notification :hover{
+    
+    border-radius: 50%;
+    height: 33px;
+    width: 50px;
+    background-color: teal;
+    transition: 1s;
+    color:  honeydew;
+    cursor: pointer;
+}
+.notification h3{
+    height: 48px;
+    width: 48px;
+    margin: 0;
+    padding-top: 14px;
+
+}
+.profile{
+    float: left;
+    height: 48px;
+    text-align: center;
+    background-color: darkturquoise;
+    border-radius: 48%;
+    margin-left: 40px;
+
+}
+.profile :hover{
+    border-radius: 50%;
+    height: 36px;
+    width: 50px;
+    background-color: teal;
+    transition: 1s;
+    color:  honeydew;
+    cursor: pointer;
+}
+.profile h3{
+    height: 48px;
+    width: 48px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.div1{
+    width: 20%;
+    height: 500px;
+    float: left;
+    background-color:  hsl(0, 0%, 98%);
+
+}
+.div2{
+    width: 60%;
+    height: 500px;
+    float: left;
+    background-color: hsl(0, 0%, 100%);
+}
+.div3{
+    width: 20%;
+    height: 500px;
+    float: left;
+    background-color:  hsl(0, 0%, 98%);
+    
+}

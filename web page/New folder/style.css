@@ -1,0 +1,107 @@
+
+body{
+    margin:auto;
+    height: 100%;
+    width: 1200px;
+    
+}
+.container{
+   
+}
+.menu{
+    height: 50px;
+    width: 100%;
+    background-color: beige;
+}
+.lmenu{
+    float: left;
+}
+.rmenu{
+    float: right;
+    padding-top:10px ;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 22px;
+}
+li:hover{
+    background-color: rgb(57, 66, 66);
+}
+.search{
+    height: 30px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.enter{
+    padding: 7px;
+}
+.log_in{
+    margin-left: 15px;
+    padding: 7px;
+}
+.header{
+    height: 250px;
+    width: 1200px;
+    background-color: rgb(127, 119, 134);
+}
+.center{
+    width: 1200px;
+    height: 100%;
+
+}
+.left{
+    width: 31%;
+    float: left;
+    background-color: darkgray;
+   
+}
+.middle{
+    width: 31%;
+    float: left;
+    background-color: darkgray;    
+    margin-left: 45px;
+    margin-right: 39px;
+    
+}
+.right{
+    width: 31%;
+    float: left;
+    background-color: darkgray;
+
+}
+.fotter{
+    width: 1200px;
+    height: 100%;
+    margin-top: 20px;
+   
+}
+.fb{
+    border-radius: 50%;
+    padding: 30px;
+    margin-left: 50px;
+    margin-top: 30px;
+   
+    
+}
+.fb:hover{
+    background-color: rgb(57, 66, 66);
+}
+.instra{
+    border-radius: 50%;
+    padding: 30px;
+    margin-left: 50px;
+}
+.instra:hover{
+    background-color: rgb(57, 66, 66);
+}
+.utube{
+    border-radius: 50%;
+    padding: 30px;
+    margin-left: 50px;
+}
+.utube:hover{
+    background-color: rgb(57, 66, 66);
+
+}
+

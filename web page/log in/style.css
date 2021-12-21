@@ -1,0 +1,120 @@
+body{
+    background-color: #EEEEEE;
+}
+.in{
+    height: 100px;
+    width: 400px;
+
+}
+.icon{
+    float: left;
+    width: 20%;
+    height: 100px;
+    padding-left: 18px;
+    padding-top: 12px;
+
+
+}
+.hrClass {
+    float: left;
+    height: 80px;
+    width: 1%;
+    background-color: #EEEEEE;
+    margin-left: 35px;
+    margin-top: 20px;
+
+
+}
+.pClass{
+    float: left;
+    width: 60%;
+    height: 100px;
+    padding-left: 6px;
+    text-align: center;
+
+
+}
+.formClass{
+    margin: auto;
+    width: 400px;
+    height: 100%;
+    background-color: #FFFFFF;
+    margin-top: 80px;
+
+}
+form{
+    
+    
+    height: 400px;
+    width: 400px;
+    
+}
+
+.dis{
+    text-align: center;
+}
+
+.emailClass{
+    margin-left: 36px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 15px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color:#E5E5E5;
+    text-align: center;
+    
+}
+.emailClass:hover{
+    border-bottom-color:#55aadb;
+    transition: 1s;
+    
+}
+
+
+.passClass{
+    margin-left: 13px;
+    padding: 10px;
+    font-size: 15px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color:#E5E5E5;
+    text-align: center;
+
+}
+.passClass:hover{
+    border-bottom-color:#55aadb;
+    transition: 1s;
+
+}
+
+.submitClass{
+    margin-top: 10px;
+    margin-left:80px ;
+    padding: 10px;
+    padding-left: 85px;
+    padding-right: 85px;
+    
+}
+.submitClass:hover{
+    
+    transition: 1s;
+    background-color: #55aadb;
+    
+}
+.submitClass:focus{
+    background-color: green;
+    
+}
+.linkClass{
+    padding-top: 30px;
+    padding-left: 75px;
+}
+.linkClass a{
+    text-align: center;
+    text-decoration: none;
+    color: #55AADB;
+    padding: 10px;
+}
